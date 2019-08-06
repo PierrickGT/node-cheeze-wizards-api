@@ -3,6 +3,7 @@
 [![Build Status](https://travis-ci.org/PierrickGT/node-cheeze-wizards-api.svg?branch=master)](https://travis-ci.org/PierrickGT/node-cheeze-wizards-api) [![npm version](https://badge.fury.io/js/node-cheeze-wizards-api.svg)](https://badge.fury.io/js/node-cheeze-wizards-api) [![Coverage Status](https://coveralls.io/repos/github/PierrickGT/node-cheeze-wizards-api/badge.svg?branch=master)](https://coveralls.io/github/PierrickGT/node-cheeze-wizards-api?branch=master) [![Latest Documentation](https://doxdox.org/images/badge-flat.svg)](https://doxdox.org/PierrickGT/node-cheeze-wizards-api) [![dependencies Status](https://david-dm.org/PierrickGT/node-cheeze-wizards-api/status.svg)](https://david-dm.org/PierrickGT/node-cheeze-wizards-api) [![devDependencies Status](https://david-dm.org/PierrickGT/node-cheeze-wizards-api/dev-status.svg)](https://david-dm.org/PierrickGT/node-cheeze-wizards-api?type=dev)
 
 Node Wrapper for the Alchemy Cheeze Wizards API: https://docs.alchemyapi.io/docs/cheeze-wizards-api
+
 You'll need a valid API key and a verified email address. To get your key, just sign up on the Cheeze Wizards developer page: https://www.cheezewizards.com/cheezyverse
 
 ## Installation
