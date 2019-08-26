@@ -1,6 +1,6 @@
 {
   "name": "node-cheeze-wizards-api",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Cheeze Wizards API Node Wrapper",
   "main": "lib/cheeze-wizards.js",
   "scripts": {
