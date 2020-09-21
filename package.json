@@ -29,7 +29,7 @@
     "doxdox": "3.0.0",
     "fs": "0.0.1-security",
     "jest": "24.9.0",
-    "jsdoc": "3.6.3",
+    "jsdoc": "3.6.6",
     "jshint": "2.10.2",
     "onchange": "6.1.0",
     "prettier": "1.18.2"
