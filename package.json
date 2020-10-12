@@ -28,7 +28,7 @@
     "coveralls": "3.0.6",
     "doxdox": "3.0.0",
     "fs": "0.0.1-security",
-    "jest": "24.9.0",
+    "jest": "26.5.3",
     "jsdoc": "3.6.3",
     "jshint": "2.10.2",
     "onchange": "6.1.0",
